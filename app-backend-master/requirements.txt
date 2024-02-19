@@ -1,0 +1,19 @@
+django
+django-redis
+django-redis-sessions
+django-filter
+djangorestframework
+djangorestframework-xml
+django-import-export
+django-cors-headers
+minio
+psycopg2-binary
+# django-rest-swagger
+drf-yasg
+pycryptodome
+cryptography
+alipay-sdk-python==3.3.398
+tencentcloud-sdk-python==3.0.319
+requests
+pillow
+rsa
